@@ -1,4 +1,4 @@
-# Beyond Pens, Paper, and Ink: Evaluating Council Spending
+# Beyond Pens, Paper, and Ink: Evaluating Council Expenditure
 
 This project examines Rochdale Borough Council’s expenditure between July 2024 and June 2025, focusing on efficiency, consistency, and transparency in public spending. Local councils, including Rochdale, face high demand for services and ongoing financial pressures, making even small, recurring costs like office supplies important indicators of departmental behaviour and cost-efficiency.
 
